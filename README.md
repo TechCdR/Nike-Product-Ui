@@ -1,6 +1,6 @@
  <h2 align="center">Nike - Product Detail Website</h2>
  
- ![Nike Desktop Demo](Screenshort nike.png "Desktop Demo")
+ ![Nike Desktop Demo](./Screenshort nike.png "Desktop Demo")
  
  Before you begin, ensure you have met the following requirements:
 
