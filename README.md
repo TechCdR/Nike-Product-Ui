@@ -1,4 +1,4 @@
- <h2 align="center">Nike - Product Detail Website</h2>
+ <h2 align="center">Nike - Product Detail Page</h2>
  
 <img src="Screenshort nike.png">
  
