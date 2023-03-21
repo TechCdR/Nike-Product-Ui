@@ -1,6 +1,6 @@
  <h2 align="center">Nike - Product Detail Website</h2>
  
- 
+ ![Nike Desktop Demo](Screenshort nike.png "Desktop Demo")
  
  Before you begin, ensure you have met the following requirements:
 
@@ -8,23 +8,23 @@
 
 ### Run Locally
 
-To run **Nike** locally, run this command on your git bash:
+To run **Nike-Product-Ui** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/nike.git
+sudo git clone https://github.com/TechCdR/Nike-Product-Ui.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/nike.git
+git clone https://github.com/TechCdR/Nike-Product-Ui.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Instagram](https://www.instagram.com/techcoder__/).
 
 ### License
 
